@@ -14,9 +14,9 @@ tags:
 author: "Claire Morel"
 ---
 
-## L'origine des 38 fleurs de Bach
+## L'origine des 39 fleurs de Bach
 
-Le Dr Edward Bach (1886-1936), medecin britannique et bacteriologiste, a developpe son systeme de 38 elixirs floraux entre 1928 et 1935. Convaincu que les maladies physiques trouvent leur origine dans des **desequilibres emotionnels**, il a parcouru la campagne anglaise pour identifier les fleurs capables de restaurer l'harmonie interieure.
+Le Dr Edward Bach (1886-1936), medecin britannique et bacteriologiste, a developpe son systeme de 39 elixirs floraux entre 1928 et 1935. Convaincu que les maladies physiques trouvent leur origine dans des **desequilibres emotionnels**, il a parcouru la campagne anglaise pour identifier les fleurs capables de restaurer l'harmonie interieure.
 
 Chaque fleur correspond a un etat emotionnel negatif precis et aide a le transformer en sa qualite positive.
 
